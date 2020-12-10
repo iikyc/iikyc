@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align='center'>
-<a href="https://instagram.com/iikyc"><Instagram></a>
-<a href="https://instagram.com//swiftbyk"><Instagram2></a>
+<a href="https://instagram.com/iikyc">Instagram</a>
+<a href="https://instagram.com//swiftbyk">Instagram2</a>
 </p>
 
 <!--
