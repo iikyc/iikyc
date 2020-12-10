@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-📚 Currently studying:
+### 📚 Currently studying:
+<p align="center">
 <a href="https://www.mdx.ac.ae">@ Middlesex University, Dubai</a>
 <a href="https://42abudhabi.ae">@ 42 ABU DHABI</a>
+</p>
 
 ## 📫 How to reach me
 
@@ -35,7 +37,7 @@
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
 
-## Design tools I use
+### Design tools
 
 <div align="center">
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
