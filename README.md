@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-## How to reach me
+📚 Currently studying:
+<a href="https://www.mdx.ac.ae">@ Middlesex University, Dubai</a>
+<a href="https://42abudhabi.ae">@ 42 ABU DHABI</a>
+
+## 📫 How to reach me
 
 <p align="center">
 <a href="https://instagram.com/iikyc"><img src="https://img.shields.io/badge/<iikyc>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://instagram.com//swiftbyk"><img src="https://img.shields.io/badge/<swiftbyk>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-## I have experience in..
+## 🛠 I have experience in..
 
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
