@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-### 📚 Currently studying:
+## 📚 Currently studying:
 <p align="center">
 <a href="https://www.mdx.ac.ae">@ Middlesex University, Dubai</a>
 <a href="https://42abudhabi.ae">@ 42 ABU DHABI</a>
