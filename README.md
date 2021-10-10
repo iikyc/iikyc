@@ -1,7 +1,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iikyc&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iikyc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href=""><img align="center" src="https://iikyc.carrd.co/assets/images/gallery01/fa5f916e.png?v=240a3612"></a>
-<a href=""><img align="center" src="https://iikyc.carrd.co/assets/images/gallery01/da288abc.png?v=240a3612"></a>
+<center><a href="https://www.credly.com/users/karam-chatra/badges"><img width="139px" height="139px" src="https://iikyc.carrd.co/assets/images/gallery01/fa5f916e.png?v=240a3612"></a></center>
+<center><a href="https://www.credly.com/users/karam-chatra/badges"><img width="139px" height="139px" src="https://iikyc.carrd.co/assets/images/gallery01/da288abc.png?v=240a3612"></a></center>
 
 ### Hi there 👋
 
