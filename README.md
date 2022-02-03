@@ -10,13 +10,6 @@
 <a href="https://www.mdx.ac.ae">@ Middlesex University, Dubai</a>
 </p>
 
-## 📫 How to reach me
-
-<p align="center">
-<a href="https://instagram.com/iikyc"><img src="https://img.shields.io/badge/<iikyc>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://instagram.com//swiftbyk"><img src="https://img.shields.io/badge/<swiftbyk>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
-
 ## 🛠 I have experience in..
 
 <div align="center">
@@ -64,9 +57,3 @@
 <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 </div>
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
