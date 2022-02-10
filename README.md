@@ -2,6 +2,7 @@
 
 <center><a href="https://www.credly.com/users/karam-chatra/badges"><img width="139px" height="139px" src="https://iikyc.carrd.co/assets/images/gallery01/fa5f916e.png?v=240a3612"></a></center>
 <center><a href="https://www.credly.com/users/karam-chatra/badges"><img width="139px" height="139px" src="https://iikyc.carrd.co/assets/images/gallery01/da288abc.png?v=240a3612"></a></center>
+<center><a href="https://www.credly.com/users/karam-chatra/badges"><img width="139px" height="139px" src="https://iikyc.carrd.co/assets/images/gallery01/5b6ea826.png?v=36e654f3"></a></center>
 
 ### Hi there 👋
 
