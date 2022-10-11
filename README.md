@@ -3,7 +3,7 @@
 **`Information Technology student @ Middlesex University Dubai`**
 
 ## Reach me at
-<a href="https://linkedin.com/in/iikyc" <img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+<a href="https://linkedin.com/in/iikyc"><img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 
 ### Languages
 <img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
