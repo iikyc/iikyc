@@ -12,6 +12,7 @@
 ## About me
 
 Cybersecurity enthusiast with development, virtualization and cloud services experience.
+Active participant in online CTFs.
 2x CompTIA certified, AWS & Azure certified, Linux Professional Institute certified
 
 Read more on my [portfolio](https://iikyc.carrd.co)
