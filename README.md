@@ -18,8 +18,6 @@
 <img align="left" width="60px" style="padding-right: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 <br />
 
-#
-
 ### Cloud  
 
 <img align="left" width="60px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
