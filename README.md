@@ -2,7 +2,7 @@
 
 **`Information Technology student @ Middlesex University Dubai`**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/iiKYC.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/iiKYC"><img src="https://tryhackme-badges.s3.amazonaws.com/iiKYC.png" alt="TryHackMe"></a>
 
 ## Reach me at
 
