@@ -1,68 +1,70 @@
-# Hi 👋 I'm Karam
 
-**`Information Technology student @ Middlesex University Dubai`**
+# Hi 👋, I'm Karam
 
-<a href="https://tryhackme.com/p/iiKYC"><img src="https://tryhackme-badges.s3.amazonaws.com/iiKYC.png" alt="TryHackMe"></a>
+## 🚀 About Me
+First Class Honours graduate from Middlesex University Dubai with a BSc in Information Technology, with hands-on experience at a cybersecurity services provider.
 
-## Reach me at
+CTF Player @[TryHackMe](https://tryhackme.com/p/iiKYC) & [HackTheBox](https://app.hackthebox.com/profile/414139).
 
-<a href="https://linkedin.com/in/kchatra"><img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-<br />
+I publish CTF writeups and occasionally cyber crime and malware research on my [website](https://iikyc.webflow.io/blog).
 
-#
+## 🔗 Reach me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iikyc.webflow.io/)
 
-## About me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchatra)
 
-Cybersecurity enthusiast with development, virtualization and cloud services experience.
-Active participant in online CTFs.
-2x CompTIA certified, AWS & Azure certified, Linux Professional Institute certified
 
-Read more on my [portfolio](https://iikyc.carrd.co)
-<br />
+## Certifications
+- CompTIA Network+
+- CompTIA Security+
+- Amazon Web Services Certified Cloud Practitioner
+- Microsoft Certified: Security, Compliance & Identity Fundamentals
+- Microsoft Certified: Azure Fundamentals
+- Linux Professional Institute Linux Essentials
+- Linux Professional Institute Security Essentials
 
-#
 
-### Languages 
+## 🛠 Skills
 
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<br />
+### Languages
+- C
+- Python
+- Java
+- JavaScript + React
+- Powershell
+- Bash
 
-#
+### Penetration testing tools & security software
+- Nmap
+- Linux (Kali/Parrot/Ubuntu)
+- Wazuh
+- Splunk
+- IPTables
+- UFW (Uncomplicated Firewall)
+- Burpsuite & OWASP ZAP
+- Metasploit
+- Nessus
+- VirusTotal
+- Wireshark
+- Hydra
+- Nikto
+- wpscan
 
-### Cloud  
+and much more..
 
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"/>
-<br />
+### Cloud providers
+- AWS
+- Microsoft Azure
 
-#
+### Databases
+- MySQL
+- MongoDB
 
-### Systems 
-
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>     
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"/>
-<br />
-
-#
-
-### Databases  
-
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-<br />
-
-#
-
-### Tools  
-
-<img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-
+### Misc
+- Webflow
+- CSS
+- HTML
+- Tableau
+- Git
+- Figma
+- MacOS + Windows
